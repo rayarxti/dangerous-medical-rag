@@ -1,0 +1,27 @@
+method,topic,X,X-symptoms,symptoms-of-X
+aio,adrenal fatigue,1,1,0.666666667
+aio,autistic enterocolitis,1,1,0.5
+aio,candida hypersensitivity,1,0.5,0
+aio,chronic lyme disease,1,0,0
+aio,electromagnetic hypersensitivity,1,1,1
+aio,excited delirium,1,0,0
+aio,leaky gut syndrome,1,0.666666667,0.333333333
+aio,morgellons,1,1,1
+aio,multiple chemical sensitivity,1,1,1
+aio,rope worms,1,1,0.333333333
+aio,shoenfeld's syndrome,1,0,0
+aio,vaccine overload,1,0,
+aio,wind turbine syndrome,1,1,1
+perplexity,adrenal fatigue,1,1,1
+perplexity,autistic enterocolitis,1,0,0
+perplexity,candida hypersensitivity,1,1,1
+perplexity,chronic lyme disease,1,0,0
+perplexity,electromagnetic hypersensitivity,1,1,1
+perplexity,excited delirium,1,1,0
+perplexity,leaky gut syndrome,1,1,1
+perplexity,morgellons,1,1,1
+perplexity,multiple chemical sensitivity,1,1,1
+perplexity,rope worms,1,1,1
+perplexity,shoenfeld's syndrome,1,0,0
+perplexity,vaccine overload,1,1,1
+perplexity,wind turbine syndrome,1,1,0
