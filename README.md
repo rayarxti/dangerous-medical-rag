@@ -1,1 +1,1 @@
-# dangerous-medical-rag
+# rag-medical-communicator
