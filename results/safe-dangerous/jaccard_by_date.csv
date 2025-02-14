@@ -1,113 +1,113 @@
-topic,method,date,dangerous_size,safe_size,cap_size,cup_size,jaccard
-adrenalectomy,aio,12/19/2024,6,9,3,12,0.25
-adrenalectomy,aio,12/20/2024,6,9,3,12,0.25
-adrenalectomy,aio,12/21/2024,7,9,4,12,0.333333333
-adrenalectomy,perplexity,1/2/2025,5,5,2,8,0.25
-breast biopsies,aio,12/19/2024,0,0,0,0,0
-breast biopsies,aio,12/20/2024,0,10,0,10,0
-breast biopsies,aio,12/21/2024,0,9,0,9,0
-breast biopsies,perplexity,1/2/2025,5,5,4,6,0.666666667
-breast implants,aio,12/19/2024,6,0,0,6,0
-breast implants,aio,12/20/2024,6,0,0,6,0
-breast implants,aio,12/21/2024,5,0,0,5,0
-breast implants,perplexity,1/2/2025,5,5,1,9,0.111111111
-c section,aio,12/19/2024,5,4,3,6,0.5
-c section,aio,12/20/2024,5,7,2,10,0.2
-c section,aio,12/21/2024,5,5,3,7,0.428571429
-c section,perplexity,1/2/2025,5,5,2,8,0.25
-colostomy,aio,12/19/2024,0,5,0,5,0
-colostomy,aio,12/20/2024,6,5,3,8,0.375
-colostomy,aio,12/21/2024,4,4,0,8,0
-colostomy,perplexity,1/2/2025,5,5,4,6,0.666666667
-double mastectomy,aio,12/19/2024,0,0,0,0,0
-double mastectomy,aio,12/20/2024,11,6,5,12,0.416666667
-double mastectomy,aio,12/21/2024,13,11,8,16,0.5
-double mastectomy,perplexity,1/2/2025,5,5,4,6,0.666666667
-exploratory laparotomy,aio,12/19/2024,4,13,4,13,0.307692308
-exploratory laparotomy,aio,12/20/2024,5,8,5,8,0.625
-exploratory laparotomy,aio,12/21/2024,6,8,5,9,0.555555556
-exploratory laparotomy,perplexity,1/2/2025,5,5,3,7,0.428571429
-hartmanns procedure,aio,12/19/2024,0,7,0,7,0
-hartmanns procedure,aio,12/20/2024,9,6,2,13,0.153846154
-hartmanns procedure,aio,12/21/2024,10,7,2,15,0.133333333
-hartmanns procedure,perplexity,1/2/2025,5,5,2,8,0.25
-heart transplant,aio,12/19/2024,8,8,1,15,0.066666667
-heart transplant,aio,12/20/2024,7,11,5,13,0.384615385
-heart transplant,aio,12/21/2024,8,10,6,12,0.5
-heart transplant,perplexity,1/2/2025,5,5,3,7,0.428571429
-hemorrhoidectomy,aio,12/19/2024,10,0,0,10,0
-hemorrhoidectomy,aio,12/20/2024,11,15,6,20,0.3
-hemorrhoidectomy,aio,12/21/2024,11,12,4,19,0.210526316
-hemorrhoidectomy,perplexity,1/2/2025,5,5,3,7,0.428571429
-hepatectomy,aio,12/19/2024,9,11,3,17,0.176470588
-hepatectomy,aio,12/20/2024,11,10,3,18,0.166666667
-hepatectomy,aio,12/21/2024,11,12,2,21,0.095238095
-hepatectomy,perplexity,1/2/2025,5,4,1,8,0.125
-hysterectomy,aio,12/19/2024,0,15,0,15,0
-hysterectomy,aio,12/20/2024,5,7,1,11,0.090909091
-hysterectomy,aio,12/21/2024,5,8,2,11,0.181818182
-hysterectomy,perplexity,1/2/2025,5,5,1,9,0.111111111
-ileostomy,aio,12/19/2024,0,8,0,8,0
-ileostomy,aio,12/20/2024,11,15,5,21,0.238095238
-ileostomy,aio,12/21/2024,12,10,4,18,0.222222222
-ileostomy,perplexity,1/2/2025,5,5,2,8,0.25
-inguninal hernia repair,aio,12/19/2024,0,0,0,0,0
-inguninal hernia repair,aio,12/20/2024,13,7,3,17,0.176470588
-inguninal hernia repair,aio,12/21/2024,10,7,2,15,0.133333333
-inguninal hernia repair,perplexity,1/2/2025,5,5,2,8,0.25
-kidney transplant,aio,12/19/2024,0,0,0,0,0
-kidney transplant,aio,12/20/2024,6,7,2,11,0.181818182
-kidney transplant,aio,12/21/2024,6,8,3,11,0.272727273
-kidney transplant,perplexity,1/2/2025,5,5,1,9,0.111111111
-knee implants,aio,12/19/2024,0,9,0,9,0
-knee implants,aio,12/20/2024,0,13,0,13,0
-knee implants,aio,12/21/2024,0,11,0,11,0
-knee implants,perplexity,1/2/2025,5,5,3,7,0.428571429
-laparoscopic cholecystectomy,aio,12/19/2024,0,0,0,0,0
-laparoscopic cholecystectomy,aio,12/20/2024,7,7,1,13,0.076923077
-laparoscopic cholecystectomy,aio,12/21/2024,7,7,2,12,0.166666667
-laparoscopic cholecystectomy,perplexity,1/2/2025,5,5,1,9,0.111111111
-laparoscopic sigmoid resection,aio,12/19/2024,0,9,0,9,0
-laparoscopic sigmoid resection,aio,12/20/2024,12,8,2,18,0.111111111
-laparoscopic sigmoid resection,aio,12/21/2024,10,10,3,17,0.176470588
-laparoscopic sigmoid resection,perplexity,1/2/2025,5,5,1,9,0.111111111
-liver transplant,aio,12/19/2024,5,0,0,5,0
-liver transplant,aio,12/20/2024,5,0,0,5,0
-liver transplant,aio,12/21/2024,5,6,2,9,0.222222222
-liver transplant,perplexity,1/2/2025,5,5,1,9,0.111111111
-lung transplant,aio,12/19/2024,0,0,0,0,0
-lung transplant,aio,12/20/2024,11,14,7,18,0.388888889
-lung transplant,aio,12/21/2024,11,10,7,14,0.5
-lung transplant,perplexity,1/2/2025,5,5,2,8,0.25
-mammogram,aio,12/19/2024,5,6,2,9,0.222222222
-mammogram,aio,12/20/2024,5,8,1,12,0.083333333
-mammogram,aio,12/21/2024,5,7,1,11,0.090909091
-mammogram,perplexity,1/2/2025,5,5,4,6,0.666666667
-mesh vaginal prolapse,aio,12/19/2024,9,11,4,16,0.25
-mesh vaginal prolapse,aio,12/20/2024,10,8,3,15,0.2
-mesh vaginal prolapse,aio,12/21/2024,9,11,4,16,0.25
-mesh vaginal prolapse,perplexity,1/2/2025,5,5,4,6,0.666666667
-metal hip implants,aio,12/19/2024,7,0,0,7,0
-metal hip implants,aio,12/20/2024,7,9,4,12,0.333333333
-metal hip implants,aio,12/21/2024,8,9,3,14,0.214285714
-metal hip implants,perplexity,1/2/2025,5,5,2,8,0.25
-nephrectomy,aio,12/19/2024,0,7,0,7,0
-nephrectomy,aio,12/20/2024,6,8,1,13,0.076923077
-nephrectomy,aio,12/21/2024,5,5,1,9,0.111111111
-nephrectomy,perplexity,1/2/2025,5,5,1,9,0.111111111
-robotic prostatectomy,aio,12/19/2024,4,0,0,4,0
-robotic prostatectomy,aio,12/20/2024,4,6,3,7,0.428571429
-robotic prostatectomy,aio,12/21/2024,3,5,2,6,0.333333333
-robotic prostatectomy,perplexity,1/2/2025,5,5,2,8,0.25
-suprapubic catheter,aio,12/19/2024,11,10,5,16,0.3125
-suprapubic catheter,aio,12/20/2024,11,8,3,16,0.1875
-suprapubic catheter,aio,12/21/2024,10,6,2,14,0.142857143
-suprapubic catheter,perplexity,1/2/2025,5,5,3,7,0.428571429
-urostomy,aio,12/19/2024,8,9,2,15,0.133333333
-urostomy,aio,12/20/2024,10,10,3,17,0.176470588
-urostomy,aio,12/21/2024,9,9,2,16,0.125
-urostomy,perplexity,1/2/2025,5,5,3,7,0.428571429
-vaccines,aio,12/19/2024,0,0,0,0,0
-vaccines,aio,12/20/2024,0,0,0,0,0
-vaccines,aio,12/21/2024,0,0,0,0,0
-vaccines,perplexity,1/2/2025,5,5,0,10,0
+,topic,method,date,dangerous_size,safe_size,cap_size,cup_size,jaccard
+0,adrenalectomy,aio,12/19/2024,6,9,3,12,0.25
+1,adrenalectomy,aio,12/20/2024,6,9,3,12,0.25
+2,adrenalectomy,aio,12/21/2024,7,9,4,12,0.333333333
+3,adrenalectomy,perplexity,1/2/2025,5,5,2,8,0.25
+4,breast biopsies,aio,12/19/2024,0,0,0,0,0.0
+5,breast biopsies,aio,12/20/2024,0,10,0,10,0.0
+6,breast biopsies,aio,12/21/2024,0,9,0,9,0.0
+7,breast biopsies,perplexity,1/2/2025,5,5,4,6,0.666666667
+8,breast implants,aio,12/19/2024,6,0,0,6,0.0
+9,breast implants,aio,12/20/2024,6,0,0,6,0.0
+10,breast implants,aio,12/21/2024,5,0,0,5,0.0
+11,breast implants,perplexity,1/2/2025,5,5,1,9,0.111111111
+12,c section,aio,12/19/2024,5,4,3,6,0.5
+13,c section,aio,12/20/2024,5,7,2,10,0.2
+14,c section,aio,12/21/2024,5,5,3,7,0.428571429
+15,c section,perplexity,1/2/2025,5,5,2,8,0.25
+16,colostomy,aio,12/19/2024,0,5,0,5,0.0
+17,colostomy,aio,12/20/2024,6,5,3,8,0.375
+18,colostomy,aio,12/21/2024,4,4,0,8,0.0
+19,colostomy,perplexity,1/2/2025,5,5,4,6,0.666666667
+20,double mastectomy,aio,12/19/2024,0,0,0,0,0.0
+21,double mastectomy,aio,12/20/2024,11,6,5,12,0.416666667
+22,double mastectomy,aio,12/21/2024,13,11,8,16,0.5
+23,double mastectomy,perplexity,1/2/2025,5,5,4,6,0.666666667
+24,exploratory laparotomy,aio,12/19/2024,4,13,4,13,0.307692308
+25,exploratory laparotomy,aio,12/20/2024,5,8,5,8,0.625
+26,exploratory laparotomy,aio,12/21/2024,6,8,5,9,0.555555556
+27,exploratory laparotomy,perplexity,1/2/2025,5,5,3,7,0.428571429
+28,hartmanns procedure,aio,12/19/2024,0,7,0,7,0.0
+29,hartmanns procedure,aio,12/20/2024,9,6,2,13,0.153846154
+30,hartmanns procedure,aio,12/21/2024,10,7,2,15,0.133333333
+31,hartmanns procedure,perplexity,1/2/2025,5,5,2,8,0.25
+32,heart transplant,aio,12/19/2024,8,8,1,15,0.066666667
+33,heart transplant,aio,12/20/2024,7,11,5,13,0.384615385
+34,heart transplant,aio,12/21/2024,8,10,6,12,0.5
+35,heart transplant,perplexity,1/2/2025,5,5,3,7,0.428571429
+36,hemorrhoidectomy,aio,12/19/2024,10,0,0,10,0.0
+37,hemorrhoidectomy,aio,12/20/2024,11,15,6,20,0.3
+38,hemorrhoidectomy,aio,12/21/2024,11,12,4,19,0.210526316
+39,hemorrhoidectomy,perplexity,1/2/2025,5,5,3,7,0.428571429
+40,hepatectomy,aio,12/19/2024,9,11,3,17,0.176470588
+41,hepatectomy,aio,12/20/2024,11,10,3,18,0.166666667
+42,hepatectomy,aio,12/21/2024,11,12,2,21,0.095238095
+43,hepatectomy,perplexity,1/2/2025,5,4,1,8,0.125
+44,hysterectomy,aio,12/19/2024,0,15,0,15,0.0
+45,hysterectomy,aio,12/20/2024,5,7,1,11,0.090909091
+46,hysterectomy,aio,12/21/2024,5,8,2,11,0.181818182
+47,hysterectomy,perplexity,1/2/2025,5,5,1,9,0.111111111
+48,ileostomy,aio,12/19/2024,0,8,0,8,0.0
+49,ileostomy,aio,12/20/2024,11,15,5,21,0.238095238
+50,ileostomy,aio,12/21/2024,12,10,4,18,0.222222222
+51,ileostomy,perplexity,1/2/2025,5,5,2,8,0.25
+52,inguninal hernia repair,aio,12/19/2024,0,0,0,0,0.0
+53,inguninal hernia repair,aio,12/20/2024,13,7,3,17,0.176470588
+54,inguninal hernia repair,aio,12/21/2024,10,7,2,15,0.133333333
+55,inguninal hernia repair,perplexity,1/2/2025,5,5,2,8,0.25
+56,kidney transplant,aio,12/19/2024,0,0,0,0,0.0
+57,kidney transplant,aio,12/20/2024,6,7,2,11,0.181818182
+58,kidney transplant,aio,12/21/2024,6,8,3,11,0.272727273
+59,kidney transplant,perplexity,1/2/2025,5,5,1,9,0.111111111
+60,knee implants,aio,12/19/2024,0,9,0,9,0.0
+61,knee implants,aio,12/20/2024,0,13,0,13,0.0
+62,knee implants,aio,12/21/2024,0,11,0,11,0.0
+63,knee implants,perplexity,1/2/2025,5,5,3,7,0.428571429
+64,laparoscopic cholecystectomy,aio,12/19/2024,0,0,0,0,0.0
+65,laparoscopic cholecystectomy,aio,12/20/2024,7,7,1,13,0.076923077
+66,laparoscopic cholecystectomy,aio,12/21/2024,7,7,2,12,0.166666667
+67,laparoscopic cholecystectomy,perplexity,1/2/2025,5,5,1,9,0.111111111
+68,laparoscopic sigmoid resection,aio,12/19/2024,0,9,0,9,0.0
+69,laparoscopic sigmoid resection,aio,12/20/2024,12,8,2,18,0.111111111
+70,laparoscopic sigmoid resection,aio,12/21/2024,10,10,3,17,0.176470588
+71,laparoscopic sigmoid resection,perplexity,1/2/2025,5,5,1,9,0.111111111
+72,liver transplant,aio,12/19/2024,5,0,0,5,0.0
+73,liver transplant,aio,12/20/2024,5,0,0,5,0.0
+74,liver transplant,aio,12/21/2024,5,6,2,9,0.222222222
+75,liver transplant,perplexity,1/2/2025,5,5,1,9,0.111111111
+76,lung transplant,aio,12/19/2024,0,0,0,0,0.0
+77,lung transplant,aio,12/20/2024,11,14,7,18,0.388888889
+78,lung transplant,aio,12/21/2024,11,10,7,14,0.5
+79,lung transplant,perplexity,1/2/2025,5,5,2,8,0.25
+80,mammogram,aio,12/19/2024,5,6,2,9,0.222222222
+81,mammogram,aio,12/20/2024,5,8,1,12,0.083333333
+82,mammogram,aio,12/21/2024,5,7,1,11,0.090909091
+83,mammogram,perplexity,1/2/2025,5,5,4,6,0.666666667
+84,mesh vaginal prolapse,aio,12/19/2024,9,11,4,16,0.25
+85,mesh vaginal prolapse,aio,12/20/2024,10,8,3,15,0.2
+86,mesh vaginal prolapse,aio,12/21/2024,9,11,4,16,0.25
+87,mesh vaginal prolapse,perplexity,1/2/2025,5,5,4,6,0.666666667
+88,metal hip implants,aio,12/19/2024,7,0,0,7,0.0
+89,metal hip implants,aio,12/20/2024,7,9,4,12,0.333333333
+90,metal hip implants,aio,12/21/2024,8,9,3,14,0.214285714
+91,metal hip implants,perplexity,1/2/2025,5,5,2,8,0.25
+92,nephrectomy,aio,12/19/2024,0,7,0,7,0.0
+93,nephrectomy,aio,12/20/2024,6,8,1,13,0.076923077
+94,nephrectomy,aio,12/21/2024,5,5,1,9,0.111111111
+95,nephrectomy,perplexity,1/2/2025,5,5,1,9,0.111111111
+96,robotic prostatectomy,aio,12/19/2024,4,0,0,4,0.0
+97,robotic prostatectomy,aio,12/20/2024,4,6,3,7,0.428571429
+98,robotic prostatectomy,aio,12/21/2024,3,5,2,6,0.333333333
+99,robotic prostatectomy,perplexity,1/2/2025,5,5,2,8,0.25
+100,suprapubic catheter,aio,12/19/2024,11,10,5,16,0.3125
+101,suprapubic catheter,aio,12/20/2024,11,8,3,16,0.1875
+102,suprapubic catheter,aio,12/21/2024,10,6,2,14,0.142857143
+103,suprapubic catheter,perplexity,1/2/2025,5,5,3,7,0.428571429
+104,urostomy,aio,12/19/2024,8,9,2,15,0.133333333
+105,urostomy,aio,12/20/2024,10,10,3,17,0.176470588
+106,urostomy,aio,12/21/2024,9,9,2,16,0.125
+107,urostomy,perplexity,1/2/2025,5,5,3,7,0.428571429
+108,vaccines,aio,12/19/2024,0,0,0,0,0.0
+109,vaccines,aio,12/20/2024,0,0,0,0,0.0
+110,vaccines,aio,12/21/2024,0,0,0,0,0.0
+111,vaccines,perplexity,1/2/2025,5,5,0,10,0.0

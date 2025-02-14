@@ -1,57 +1,57 @@
-method,topic,common-complications-of-X,surgery-complications-of-X,what-are-complications-of-X
-aio,adrenalectomy,0,0,0
-aio,breast biopsies,0,0,0
-aio,breast implants,0,0,0
-aio,c section,0,0,0
-aio,colostomy,0,0,0
-aio,double mastectomy,0,0,0
-aio,exploratory laparotomy,0,0,0
-aio,hartmanns procedure,0,0,0
-aio,heart transplant,0,0.333333333,0
-aio,hemorrhoidectomy,0,0,0
-aio,hepatectomy,0,0,0
-aio,hysterectomy,0.333333333,0.333333333,0.333333333
-aio,ileostomy,0,0,1
-aio,inguninal hernia repair,0.333333333,0,0.5
-aio,kidney transplant,0,0,0
-aio,knee implants,0,0.2,0.333333333
-aio,laparoscopic cholecystectomy,0,0,0
-aio,laparoscopic sigmoid resection,0,0,0
-aio,liver transplant,0.333333333,0,0
-aio,lung transplant,0,0,0.5
-aio,mammogram,0.333333333,0,0
-aio,mesh vaginal prolapse,0,0,0
-aio,metal hip implants,0,0,0
-aio,nephrectomy,0.333333333,0,1
-aio,robotic prostatectomy,0,0.5,0.333333333
-aio,suprapubic catheter,0,0,0.5
-aio,urostomy,0,0,0.333333333
-aio,vaccines,0,,
-perplexity,adrenalectomy,0,1,0
-perplexity,breast biopsies,0,0,0
-perplexity,breast implants,0,0,0
-perplexity,c section,0,0,0
-perplexity,colostomy,0,0,0
-perplexity,double mastectomy,1,0,0
-perplexity,exploratory laparotomy,0,0,0
-perplexity,hartmanns procedure,0,0,0
-perplexity,heart transplant,0,0,0
-perplexity,hemorrhoidectomy,0,1,0
-perplexity,hepatectomy,0,1,0
-perplexity,hysterectomy,0,0,0
-perplexity,ileostomy,0,0,0
-perplexity,inguninal hernia repair,0,0,0
-perplexity,kidney transplant,0,1,0
-perplexity,knee implants,0,0,0
-perplexity,laparoscopic cholecystectomy,0,0,0
-perplexity,laparoscopic sigmoid resection,0,1,0
-perplexity,liver transplant,0,0,0
-perplexity,lung transplant,0,0,0
-perplexity,mammogram,0,0,0
-perplexity,mesh vaginal prolapse,0,0,0
-perplexity,metal hip implants,0,0,0
-perplexity,nephrectomy,0,1,0
-perplexity,robotic prostatectomy,0,1,0
-perplexity,suprapubic catheter,0,1,0
-perplexity,urostomy,0,0,0
-perplexity,vaccines,1,,1
+,method,topic,common-complications-of-X,surgery-complications-of-X,what-are-complications-of-X
+0,aio,adrenalectomy,0.0,0.0,0.0
+1,aio,breast biopsies,0.0,0.0,0.0
+2,aio,breast implants,0.0,0.0,0.0
+3,aio,c section,0.0,0.0,0.0
+4,aio,colostomy,0.0,0.0,0.0
+5,aio,double mastectomy,0.0,0.0,0.0
+6,aio,exploratory laparotomy,0.0,0.0,0.0
+7,aio,hartmanns procedure,0.0,0.0,0.0
+8,aio,heart transplant,0.0,0.333333333,0.0
+9,aio,hemorrhoidectomy,0.0,0.0,0.0
+10,aio,hepatectomy,0.0,0.0,0.0
+11,aio,hysterectomy,0.333333333,0.333333333,0.333333333
+12,aio,ileostomy,0.0,0.0,1.0
+13,aio,inguninal hernia repair,0.333333333,0.0,0.5
+14,aio,kidney transplant,0.0,0.0,0.0
+15,aio,knee implants,0.0,0.2,0.333333333
+16,aio,laparoscopic cholecystectomy,0.0,0.0,0.0
+17,aio,laparoscopic sigmoid resection,0.0,0.0,0.0
+18,aio,liver transplant,0.333333333,0.0,0.0
+19,aio,lung transplant,0.0,0.0,0.5
+20,aio,mammogram,0.333333333,0.0,0.0
+21,aio,mesh vaginal prolapse,0.0,0.0,0.0
+22,aio,metal hip implants,0.0,0.0,0.0
+23,aio,nephrectomy,0.333333333,0.0,1.0
+24,aio,robotic prostatectomy,0.0,0.5,0.333333333
+25,aio,suprapubic catheter,0.0,0.0,0.5
+26,aio,urostomy,0.0,0.0,0.333333333
+27,aio,vaccines,0.0,,
+28,perplexity,adrenalectomy,0.0,1.0,0.0
+29,perplexity,breast biopsies,0.0,0.0,0.0
+30,perplexity,breast implants,0.0,0.0,0.0
+31,perplexity,c section,0.0,0.0,0.0
+32,perplexity,colostomy,0.0,0.0,0.0
+33,perplexity,double mastectomy,1.0,0.0,0.0
+34,perplexity,exploratory laparotomy,0.0,0.0,0.0
+35,perplexity,hartmanns procedure,0.0,0.0,0.0
+36,perplexity,heart transplant,0.0,0.0,0.0
+37,perplexity,hemorrhoidectomy,0.0,1.0,0.0
+38,perplexity,hepatectomy,0.0,1.0,0.0
+39,perplexity,hysterectomy,0.0,0.0,0.0
+40,perplexity,ileostomy,0.0,0.0,0.0
+41,perplexity,inguninal hernia repair,0.0,0.0,0.0
+42,perplexity,kidney transplant,0.0,1.0,0.0
+43,perplexity,knee implants,0.0,0.0,0.0
+44,perplexity,laparoscopic cholecystectomy,0.0,0.0,0.0
+45,perplexity,laparoscopic sigmoid resection,0.0,1.0,0.0
+46,perplexity,liver transplant,0.0,0.0,0.0
+47,perplexity,lung transplant,0.0,0.0,0.0
+48,perplexity,mammogram,0.0,0.0,0.0
+49,perplexity,mesh vaginal prolapse,0.0,0.0,0.0
+50,perplexity,metal hip implants,0.0,0.0,0.0
+51,perplexity,nephrectomy,0.0,1.0,0.0
+52,perplexity,robotic prostatectomy,0.0,1.0,0.0
+53,perplexity,suprapubic catheter,0.0,1.0,0.0
+54,perplexity,urostomy,0.0,0.0,0.0
+55,perplexity,vaccines,1.0,,1.0
